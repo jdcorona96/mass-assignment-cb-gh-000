@@ -6,7 +6,8 @@ class Person
 
   def initialize(hash)
 
-    
-    
+    hash.each do |key, data|
+    end
+
   end
 end
